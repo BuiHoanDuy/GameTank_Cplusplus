@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1699512585 source:c:\users\aus\onedrive\mydocument\important documents\btln3_gametank\battlecitytank\main.cpp
+	<iostream>
+	<unistd.h>
+	"mylib.h"
+	<math.h>
+	<mmsystem.h>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1699463539 c:\users\aus\onedrive\mydocument\important documents\btln3_gametank\battlecitytank\mylib.h
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
